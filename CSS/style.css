@@ -4,14 +4,9 @@
 }
 
 body {
-<<<<<<< HEAD
     background-color:#f2f2f2f2
 }
-=======
-    background-color:#f1f1f1f1;
-    margin: 20px;
 
-}
 h1 {
     font-size: 2rem;
     color:blue;
@@ -23,5 +18,3 @@ h1 {
     font-size:15px;
     font-weight:bold;
 }
-    
->>>>>>> development
